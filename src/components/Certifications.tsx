@@ -52,21 +52,30 @@ const Certifications = () => {
       date: "2025",
       image: "/certificates/saa.jpg",
       description: "Studied AWS architecture design and deployment practices."
-    },
-    {
-      title: "SQL Intermediate",
-      issuer: "HackerRank",
-      date: "2025",
-      image: "/certificates/sqlintermediate.jpg",
-      description: "Explored joins, subqueries, and advanced data manipulation techniques in SQL."
-    },
-    {
-      title: "SQL Basics",
-      issuer: "HackerRank",
-      date: "2025",
-      image: "/certificates/sqlbasics.jpg",
-      description: "Demonstrated foundational skills in SQL queries, filtering, and aggregation."
     }
+    ,
+    {
+    title: "SQL Advanced",
+    issuer: "HackerRank",
+    date: "2025",
+    image: "/certificates/sqladvance.jpg",
+    description: "Applied advanced SQL concepts like window functions, recursive ctes, nested queries, and query optimization."
+    }
+    ,
+    {
+    title: "SQL Intermediate",
+    issuer: "HackerRank",
+    date: "2025",
+    image: "/certificates/sqlintermediate.jpg",
+    description: "Explored joins, subqueries, and advanced data manipulation techniques in SQL."
+    }
+    ,{
+    title: "SQL Basics",
+    issuer: "HackerRank",
+    date: "2025",
+    image: "/certificates/sqlbasics.jpg",
+    description: "Demonstrated foundational skills in SQL queries, filtering, and aggregation."
+  },
   ],
   merit: [
     {
